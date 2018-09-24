@@ -1,1 +1,1 @@
-https://ayushkat.github.io/AH/.
+https://ayushkat.github.io/AH/index.html
