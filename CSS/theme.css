@@ -11,17 +11,16 @@ h1   {
 
 
 p    {
-	color: darkgray;
+	color: black;
 }
 
 #con1 {
-	  background-image: url("Bermuda.jpg"); 
-      font-family: "Raleway", sans-serif
+	background-image: url("Bermuda.jpg"); 
+	font-family: "Raleway", sans-serif
    
 }
 
-#ab1 {	
-    background-color: black;
+#ab1 {	background-color: black;
 	color: white;
 	font-family: "Raleway", sans-serif;
 }
