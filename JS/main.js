@@ -1,6 +1,6 @@
 function test1(){
 
 var fName = prompt("You got a name?");
-var myColour = ("Pick a color, " + fName);
+var myColour = prompt("Pick a color, " + fName);
 
 }
