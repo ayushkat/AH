@@ -16,3 +16,20 @@ var myColour = prompt("Pick a color, " + fName);
 }  
 else {console.log("thats not a colour")
 }
+
+function test2(){
+  
+  var age=prompt("how old are you")
+  if(age < 14){
+  alert("thats not too old")
+  }
+else if(age==14){
+  alert("you have a good age")
+}
+else if(age > 14){
+  alert("You're older than i thought")
+}
+  else{
+  alert("you're an idiot")
+  }
+}
