@@ -10,13 +10,12 @@ var myColour = prompt("Pick a color, " + fName);
   else if(myColour == "green"){
     console.log("ah he likes green. he's alright")
 }
-}
   else if(myColour == "yellow"){
     console.log("ah he likes ittt. he's alright")
 }  
 else {console.log("thats not a colour")
 }
-
+}
 function test2(){
   
   var age=prompt("how old are you")
