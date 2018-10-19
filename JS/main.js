@@ -33,3 +33,22 @@ function test2(){
     alert("you're an idiot");
   }
 }
+
+function test4(){
+
+var fnumber = prompt("Pick a number between 1 to 100");
+  if(number < 9){
+    alert("higher");
+  }
+  else if(number==9){
+    alert("correct");
+  }
+  else if(number > 9){
+    alert("lower");
+  }
+  else{
+    alert("you're an idiot");
+  }
+}
+
+
